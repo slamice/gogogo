@@ -11,6 +11,15 @@ That's not really what happens though. You want to think about what to make, slo
 
 This project is about building a WebApp with Go as the backend. We'll be making mistakes along the way and corrcting them as we *go* (sorry). I'll attempt to document in depth all the decisions I make while building this app.
 
+References:
+- http://dave.cheney.net/resources-for-new-go-programmers
+
+Read these first:
+- https://github.com/golang/go/wiki/CodeReviewComments
+- https://golang.org/doc/articles/wiki/
+- https://golang.org/doc/effective_go.html
+- http://www.golang-book.com/
+
 Ideas on where to begin:
 1. TDD start with tests, learn how to write them
 2. Picking a web framework
